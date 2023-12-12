@@ -25,8 +25,12 @@ Here are some images that showcase my Flutter Application
 
 **For leak detection, we consider the following steps based on the work of an agent from RADEM (Autonomous Authority for Water and Electricity Distribution in Meknes):
 1/ Record water consumption for each day between 2:00 AM and 6:00 AM.
+
 2/ If the consumption exceeds a limit of MAX1 liters or if the consumption recorded during this period (2:00 AM-6:00 AM) over three consecutive days exceeds MAX2 (MAX2 < MAX1), then a leak is reported.
-Code:
+
+**Code**:
+
+
 #include <Arduino.h>
 #include <DS3231.h>
 #include <Wire.h>
