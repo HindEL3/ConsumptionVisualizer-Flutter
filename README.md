@@ -1,10 +1,10 @@
 
 
 Here are some images that showcase my Flutter Application 
-
- ![scr3](https://github.com/HindEL3/ConsumptionVisualizer-Flutter/assets/153544537/5bcc5dab-2dbb-4d21-8a69-7a5ab4db374e)
-![scr2](https://github.com/HindEL3/ConsumptionVisualizer-Flutter/assets/153544537/0f793046-da57-434d-a92f-e534b377f3ad)
 ![dd](https://github.com/HindEL3/ConsumptionVisualizer-Flutter/assets/153544537/9aae1587-68c6-4e14-b93c-cf46e37a235a)
+![scr3](https://github.com/HindEL3/ConsumptionVisualizer-Flutter/assets/153544537/5bcc5dab-2dbb-4d21-8a69-7a5ab4db374e)
+![scr2](https://github.com/HindEL3/ConsumptionVisualizer-Flutter/assets/153544537/0f793046-da57-434d-a92f-e534b377f3ad)
+
 
  You'll find a schema & C++ code snippet for a small program designed to detect memory leaks during installation .
  ![installation](https://github.com/HindEL3/ConsumptionVisualizer-Flutter/assets/153544537/53780712-3da4-49ef-a70c-7f0c2f2569fe)
