@@ -1,19 +1,4 @@
-# sauv2
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 Here are some images that showcase my Flutter Application 
  ![scr3](https://github.com/HindEL3/ConsumptionVisualizer-Flutter/assets/153544537/5bcc5dab-2dbb-4d21-8a69-7a5ab4db374e)
